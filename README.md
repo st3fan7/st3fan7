@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=st3fan7&count_private=true&theme=highcontrast&showicons=true)]()
 </br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=st3fan7&langs_count=9&theme=highcontrast&hide=html,css,javascript)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=st3fan7&langs_count=9&theme=highcontrast&hide=html,css)]()
 
